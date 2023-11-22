@@ -2,7 +2,7 @@
 - Multi-language support
 - Responsive Designs
 - Widget usage
-- State structure
+- Working structure
 - Page transitions and data transfer between pages
 - Life cycle
 - Bottom Navigation Bar and user interaction
